@@ -61,7 +61,7 @@ Geen paniek, je kan in je repository makkelijk aanpassingen maken. Je gaat naar 
 
 
 ## Verder leren
-Dit is maar een klein voorbeeld van hoe je GitHub kan gebruiken. Op internet kan je super veel video's en tutorials vinden om nog meer uit je repository te halen. De video hieronder (in het Engels) legt uit wat Git en GitHub is en hoe je er mee kan werken. Verder kan je [deze cursus](https://learn.wheelhouse.io/events/early-access) volgen om met veel voorbeelden te leren hoe GitHub werkt.
+Dit is maar een klein voorbeeld van hoe je GitHub kan gebruiken. Op internet kan je super veel video's en tutorials vinden om nog meer uit je repository te halen.  Verder kan je [meer leren over de GitHub Student Pack](https://education.github.com/students) en met [deze video](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-) serie alles leren over GitHub!
 
 
 ## GitHub Desktop
@@ -74,3 +74,5 @@ Als je op je computer [GitHub Desktop](https://desktop.github.com/) hebt, kan je
 Deze handleiding is snel in elkaar getypt om informatica leerlingen van het [Ds. Pierson College](http://pierson.nl) in aanraking te brengen met GitHub, doormiddel van het hosten van hun website.
 
 Als je een fout gevonden hebt of deze handleiding wil verbeteren, kun je een [issue](https://github.com/moorlag/moorlag.github.io/issues/new) of [pull request](https://github.com/moorlag/moorlag.github.io/compare) maken.
+
+Ben je tot hier gekomen in de handleiding? Zoek dan dhr. Moorlag op en krijg een cadeau! 
