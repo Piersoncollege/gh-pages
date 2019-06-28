@@ -66,8 +66,11 @@ Dit is maar een klein voorbeeld van hoe je GitHub kan gebruiken. Op internet kan
 
 ## Extra resources
 [Voorstellen GitHub Pages](https://www.youtube.com/watch?v=2MsN8gpT6jY)
+
 [In 15 minuten een werkende site](https://www.youtube.com/watch?v=nqXWfXNc0gs)
+
 [Referentiehandleiding PDF](https://lab.github.com/public/github-pages.pdf)
+
 
 ## GitHub Desktop
 De meeste websites bestaan natuurlijk niet alleen maar uit één bestand, maar uit meerdere bestanden. Om makkelijk bestanden te uploaden, kan je een Git client gebruiken. GitHub's website kan dit sinds kort ook.
