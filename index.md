@@ -1,0 +1,1 @@
+Het is niet de bedoeling dat deze handleiding wordt aangepast met de GitHub Pages Generator. Bewerk in plaats daar van het bestand in `_includes/content.md`.
