@@ -64,6 +64,11 @@ Geen paniek, je kan in je repository makkelijk aanpassingen maken. Je gaat naar 
 Dit is maar een klein voorbeeld van hoe je GitHub kan gebruiken. Op internet kan je super veel video's en tutorials vinden om nog meer uit je repository te halen.  Verder kan je [meer leren over de GitHub Student Pack](https://education.github.com/students) en met [deze video](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-) serie alles leren over GitHub!
 
 
+## Extra resources
+[Voorstellen GitHub Pages](https://www.youtube.com/watch?v=2MsN8gpT6jY)
+[In 15 minuten een werkende site](https://www.youtube.com/watch?v=nqXWfXNc0gs)
+[Referentiehandleiding PDF](https://lab.github.com/public/github-pages.pdf)
+
 ## GitHub Desktop
 De meeste websites bestaan natuurlijk niet alleen maar uit één bestand, maar uit meerdere bestanden. Om makkelijk bestanden te uploaden, kan je een Git client gebruiken. GitHub's website kan dit sinds kort ook.
 
@@ -75,4 +80,4 @@ Deze handleiding is snel in elkaar getypt om informatica leerlingen van het [Ds.
 
 Als je een fout gevonden hebt of deze handleiding wil verbeteren, kun je een [issue](https://github.com/moorlag/moorlag.github.io/issues/new) of [pull request](https://github.com/moorlag/moorlag.github.io/compare) maken.
 
-Ben je tot hier gekomen in de handleiding? Zoek dan dhr. Moorlag op en krijg een cadeau! 
+Ben je tot hier gekomen in de handleiding? Zoek dan dhr. Moorlag op en krijg een cadeau!
