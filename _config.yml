@@ -2,3 +2,9 @@ version: "1.0.0"
 plugins:
   - jemoji
 markdown: kramdown
+
+title: Handleiding GitHub Pages
+description: Met deze handleiding kun je eenvoudig, snel en gratis je webpagina online zetten.
+google_analytics: UA-85801803-1
+show_downloads: true
+theme: jekyll-theme-cayman
