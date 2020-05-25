@@ -1,5 +1,4 @@
-
-## Aanmelden op GitHub!
+## Aanmelden op GitHub!!!
 Om je website op GitHub Pages te hosten, zal je eerst een [account aan moeten maken op GitHub.com](https://github.com/join). Doe dit met je **@pierson.nl** account. Nadat je je e-mail hebt bevestigd, ga je naar de volgende stap.
 
 
