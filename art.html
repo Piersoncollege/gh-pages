@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+</style>
+</head>
+<body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.5/p5.min.js"></script>
+<script>
+
+function setup() {
+    createCanvas(windowWidth, windowHeight);
+}
+
+function windowResized() {
+    resizeCanvas(windowWidth, windowHeight);
+}
+
+function wave(offset) {
+    var t = millis() / 1000;
+    var cx = width / 2;
+    var cy = height / 2;
+    var radius = min(width, height) * 0.4;
+    beginShape();
+    for (var i = 0; i <= 360; i++) {
+        var a = radians(i);
+        var amplitude = pow((1 + cos(a - t)) / 2, 3);
+        var r = radius + cos(a * 8 - offset + t) * amplitude * 32;
+        var x = cx + cos(a) * r;
+        var y = cy + sin(a) * r;
+        vertex(x, y);
+    }
+    endShape();
+}
+
+function draw() {
+    blendMode(BLEND);
+    background(0);
+    blendMode(ADD);
+    noFill();
+    strokeWeight(min(width, height) * 0.02);
+    strokeJoin(ROUND);
+    stroke(255, 0, 0);
+    wave(0);
+    stroke(0, 255, 0);
+    wave(PI / 2);
+    stroke(0, 0, 255);
+    wave(PI / 1);
+}
+
+</script>
+<A HREF="https://bl.ocks.org/fogleman/269b1d9320b7877cfa7591ade4f08bb7">source</A>
+</body>
+</html>
